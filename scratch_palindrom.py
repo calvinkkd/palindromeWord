@@ -1,3 +1,4 @@
+# Written by Kofi Kusi Odoi Donhkon
 # function to check string is
 # palindrome or not
 
